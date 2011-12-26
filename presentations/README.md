@@ -5,7 +5,7 @@ educational "brown bag" lunches, lightning talks, user groups and conferences.
 Ruby Talks
 ----------
 
-[A Tour of Ruby] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Ruby_on_Rails.pdf?raw=true) - Since its public unveiling in 2004, Ruby on
+* [A Tour of Ruby] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Ruby_on_Rails.pdf?raw=true) - Since its public unveiling in 2004, Ruby on
 Rails has taken the web development world by storm. Rails is an open-source
 framework, built using the Ruby programming language, that promotes high
 productivity and reduced development times for real-world web sites. This talk
