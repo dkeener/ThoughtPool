@@ -63,7 +63,7 @@ particularly useful for individuals who are completely unfamiliar with Rails.
 This presentation is a distillation of practical tactics that have been used
 to create highly successful FaceBook applications using Rails, including
 real-life systems like PollCast and Iran Voices. FaceBook is the world's
-largest social network, with over 500 million members. Presented at
+largest social network, with over 600 million members. Presented at
 [RubyNation 2010] (http://www.rubynation.org/archive/2010/index.html) and
 [SunnyConf 2010] (http://www.sunnyconf.com).
 A slightly updated and generalized version of this presentation called
@@ -111,6 +111,11 @@ suitable for both management and technical professionals. For an audience of
 Rails "newbies", the focus of the presentation is just on educating viewers
 about Rails. For a more experienced audience, the spin is typically on how the
 audience can effectively educate others about Rails as a technology.
+
+* [Quick Start: Rails LiveTree] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Quick_Start_Rails_LiveTree.pdf?raw=true) -
+This presentation provides a step-by-step roadmap for creating a dynamic tree
+feature for a web site using the LiveTree JavaScript code and the Rails
+"acts_as_tree" mechanism.
 
 Java Talks
 ----------
