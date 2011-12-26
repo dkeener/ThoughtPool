@@ -78,6 +78,11 @@ Rails applications with the mature, third-party libraries that are widely
 available in the Java world. Presented at
 [RubyNation 2008](http://www.rubynation.org/archive/2008/index.html).
 
+* [Rails Security] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_Security.pdf?raw=true) - So, you think your web application is
+reasonably secure? Well, based on the statistics, you're probably wrong. This
+talk examines real-world security problems in Rails applications, and shows
+how they can be mediated.
+
 * [Using Rails to Create an Enterprise App: A Real-Life Case Study] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_For_Real.pdf?raw=true) -
 Rails is a great framework for quickly creating "green field" web applications.
 Find out how well it works when creating internal, corporate web applications
@@ -91,6 +96,21 @@ quickly familiarize viewers with a single topic. These presentations are ideal
 for time slots of 10 to 15 minutes. They have been successfully used as:
 1) planned interstitial content within longer events, and 2) lightning talks.
 
+* [Quick Start: ActiveScaffold] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/QuickStart_ActiveScaffold.pdf?raw=true) -
+ActiveScaffold is more than just a replacement for the default scaffold
+functionality built into the Rails framework. The ActiveScaffold plugin
+provides a simple way for developers to quickly and easily add sophisticated
+data maintenance and data display features to web sites. Presented at the
+Scotland on Rails Conference in 2009. Note that, as of January 1, 2012,
+ActiveScaffold has not yet been completely ported to Rails 3.0 (which makes
+using it somewhat problematic).
+
+* [Quick Start: Rails] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/QuickStart_Rails.pdf?raw=true) -
+This presentation provides a brief, non-technical overview of Ruby on Rails,
+suitable for both management and technical professionals. For an audience of
+Rails "newbies", the focus of the presentation is just on educating viewers
+about Rails. For a more experienced audience, the spin is typically on how the
+audience can effectively educate others about Rails as a technology.
 
 Java Talks
 ----------
