@@ -2,6 +2,19 @@ These presentations cover a variety of technical topics in the web development
 realm. They have been delivered in a wide range of settings, including
 educational "brown bag" lunches, lightning talks, user groups and conferences.
 
+Business Talks
+--------------
+
+* [Killer Business Models] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Killer_Business_Models.pdf?raw=true) -
+You've created some really great software, but is it sufficient to form the
+basis of a viable business? What's your business model? How can you describe
+your business model and effectively communicate your vision to others? How can
+other people evaluate your business model and determine whether your vision
+and business strategies have merit? In this talk, I'll provide a conceptual
+basis for defining, documenting and evaluating business models. I'll also use
+real-world examples to show how these concepts can be effectively applied to
+help build actual businesses. Presented at [RubyNation 2011] (http://www.rubynation.org).
+
 Ruby Talks
 ----------
 
@@ -54,8 +67,30 @@ largest social network, with over 500 million members. Presented at
 [RubyNation 2010] (http://www.rubynation.org/archive/2010/index.html) and
 [SunnyConf 2010] (http://www.sunnyconf.com).
 A slightly updated and generalized version of this presentation called
-[Building Facebook Apps] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/DevIgnition_Building_Facebook_Apps.pdf)
+[Building Facebook Apps] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/DevIgnition_Building_Facebook_Apps.pdf?raw=true)
 was given at [DevIgnition 2011] (http://www.devignition.com).
+
+* [Practical JRuby] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Practical_JRuby.pdf?raw=true) -
+This talk provides a number of step-by-step examples that illustrate different
+ways in which Rails applications can interact effectively with third-party Java
+libraries. The presentation shows how developers can leverage JRuby to augment
+Rails applications with the mature, third-party libraries that are widely
+available in the Java world. Presented at
+[RubyNation 2008](http://www.rubynation.org/archive/2008/index.html).
+
+* [Using Rails to Create an Enterprise App: A Real-Life Case Study] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_For_Real.pdf?raw=true) -
+Rails is a great framework for quickly creating "green field" web applications.
+Find out how well it works when creating internal, corporate web applications
+that have to access multiple legacy databases.
+
+Quick-Start Ruby Talks
+----------------------
+
+Quick Start Presentations are short, highly focused presentations designed to
+quickly familiarize viewers with a single topic. These presentations are ideal
+for time slots of 10 to 15 minutes. They have been successfully used as:
+1) planned interstitial content within longer events, and 2) lightning talks.
+
 
 Java Talks
 ----------
@@ -63,3 +98,8 @@ Java Talks
 * [Creating Dynamic Charts With JFreeChart] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/JFreeChartIntro.pdf?raw=true) - This presentation
 describes how to use JFreeChart, a Java open source charting library, to
 dynamically create charts and seamlessly embed them within web pages.
+
+* [Maven: Managing Software Projects for Repeatable Results] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Maven_Intro.pdf?raw=true) -
+This presentation explores the features of Maven 2, a software build tool that
+has achieved prominence in the Java development arena. Find out how Maven can
+be leveraged to automate key project tasks.
