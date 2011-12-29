@@ -1,6 +1,6 @@
 The ThoughtPool git repository contains documents and files that I have
 decided to share with the general public. Most of the documents and files
-belong to me; my brother, Steve Keener, ocassionally contributes as well. I
+belong to me; my brother, Steve Keener, sometimes contributes as well. I
 hope that these items will be useful in various ways.
 
 OK, now for the official legal stuff.
