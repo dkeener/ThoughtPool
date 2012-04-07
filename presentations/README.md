@@ -1,5 +1,6 @@
-These presentations cover a variety of technical topics in the web development
-realm. They have been delivered in a wide range of settings, including
+These presentations cover a variety of technical topics in the web development,
+business and science realms (What can I say, I have a wide range of interests). 
+They have been delivered in a wide range of settings, including
 educational "brown bag" lunches, lightning talks, user groups and conferences.
 
 Recently added talks include:
