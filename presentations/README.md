@@ -15,6 +15,15 @@ basis for defining, documenting and evaluating business models. I'll also use
 real-world examples to show how these concepts can be effectively applied to
 help build actual businesses. Presented at [RubyNation 2011] (http://www.rubynation.org).
 
+Science Talks
+-------------
+
+* [Elevator Up, Please!] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Elevator_Up_Please.pdf?raw=true) - 
+Space travel has traditionally been expensive, unreliable and dangerous. But
+there are some realistic alternatives to the kind of space travel represented
+by the Space Shuttle. Find out about one of these alternatives in this short,
+introductory presentation.
+
 Ruby Talks
 ----------
 
@@ -77,6 +86,19 @@ libraries. The presentation shows how developers can leverage JRuby to augment
 Rails applications with the mature, third-party libraries that are widely
 available in the Java world. Presented at
 [RubyNation 2008](http://www.rubynation.org/archive/2008/index.html).
+
+* [Rails and the Apache SOLR Search Engine] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_and_SOLR.pdf?raw=true) - 
+What good is content if nobody can find it? Many information sites are like
+icebergs, with only a limited amount of content directly accessible to users
+and the rest, the “underwater” potion, only available through searches. This
+talk will show how Rails web sites can take advantage of the world-class
+Apache SOLR search engine to provide sophisticated and customizable search
+features. We’ll cover how to get started with SOLR, integrating with SOLR
+using the Sunspot gem, indexing, and both basic and advanced search
+techniques. Along the way, we’ll also cover some best practices and some
+architectural recommendations. Accompanied by 
+[working source code] (https://github.com/dkeener/rails_solr_demo) on 
+Github.
 
 * [Rails Security] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_Security.pdf?raw=true) - So, you think your web application is
 reasonably secure? Well, based on the statistics, you're probably wrong. This
