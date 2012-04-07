@@ -2,6 +2,11 @@ These presentations cover a variety of technical topics in the web development
 realm. They have been delivered in a wide range of settings, including
 educational "brown bag" lunches, lightning talks, user groups and conferences.
 
+Recently added talks include:
+
+* Elevator Up, Please! - Added Mar 26, 2012 in "Science Talks."
+* Rails and the Apache SOLR Search Engine - Added Mar 26, 2012 in "Ruby Talks."
+
 Business Talks
 --------------
 
@@ -14,6 +19,7 @@ and business strategies have merit? In this talk, I'll provide a conceptual
 basis for defining, documenting and evaluating business models. I'll also use
 real-world examples to show how these concepts can be effectively applied to
 help build actual businesses. Presented at [RubyNation 2011] (http://www.rubynation.org).
+Selected as a featured presentation on SlideShare.
 
 Science Talks
 -------------
@@ -98,7 +104,7 @@ using the Sunspot gem, indexing, and both basic and advanced search
 techniques. Along the way, we’ll also cover some best practices and some
 architectural recommendations. Accompanied by 
 [working source code] (https://github.com/dkeener/rails_solr_demo) on 
-Github.
+Github. Presented at [RubyNation 2012](http://www.rubynation.org).
 
 * [Rails Security] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Rails_Security.pdf?raw=true) - So, you think your web application is
 reasonably secure? Well, based on the statistics, you're probably wrong. This
