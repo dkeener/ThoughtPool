@@ -5,6 +5,9 @@ educational "brown bag" lunches, lightning talks, user groups and conferences.
 
 Recently added talks include:
 
+https://github.com/dkeener/ThoughtPool/blob/master/presentations/Social_Networking_TNWABA.pdf?raw=true
+
+* Social Networking: The Next Weapon Against Bad Actors - Added Dec 10, 2012 in "Business Talks."
 * Elevator Up, Please! - Added Mar 26, 2012 in "Science Talks."
 * Rails and the Apache SOLR Search Engine - Added Mar 26, 2012 in "Ruby Talks."
 
@@ -21,6 +24,13 @@ basis for defining, documenting and evaluating business models. I'll also use
 real-world examples to show how these concepts can be effectively applied to
 help build actual businesses. Presented at [RubyNation 2011] (http://www.rubynation.org).
 Selected as a featured presentation on SlideShare.
+
+* [Social Networking: The Next Weapon Against Bad Actors] (https://github.com/dkeener/ThoughtPool/blob/master/presentations/Social_Networking_TNWABA.pdf?raw=true) - 
+Find out how social networking strategies can be applied to facilitate
+knowledge sharing within the cyber security community and empower the community
+to act even more effectively against bad actors, the people responsible for
+malware, viruses, identify theft, spam and other nefarious activities.
+Presented at the GFIRST 2012 Cyber Security Conference.
 
 Science Talks
 -------------
