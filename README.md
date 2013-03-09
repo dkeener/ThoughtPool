@@ -8,10 +8,11 @@ OK, now for the official legal stuff.
 Documents
 ---------
 
-All documents in this git repository are licensed under a "Creative Commons
-Attribution-Share Alike 3.0 United States License." An easy-to-understand,
-layman's explanation of the license, as well as a link to full legal code of
-the license, may be found at the following URL:
+All documents in this git repository, excluding the "stories" directory,
+are licensed under a "Creative Commons Attribution-Share Alike 3.0 United
+States License." An easy-to-understand, layman's explanation of the license, as
+well as a link to full legal code of the license, may be found at the
+following URL:
 
    http://creativecommons.org/licenses/by-sa/3.0/us/
 
@@ -20,6 +21,14 @@ says that you can use the content any way you like as long as: 1) you preserve
 credit (attribution) for it, and 2) as long as you likewise publically share
 anything that you create based on this content under the same license or a
 similar license.
+
+Stories
+-------
+
+The fiction provided in the "stories" directory is fully protected by conventional
+copyright restrictions. The stories are available for free in PDF form. Users are
+welcome to copy them, send them to their friends, etc. I'd love to hear some
+feedback on the stories at dkeener _at_ keenertech.com.
 
 Files
 -----
